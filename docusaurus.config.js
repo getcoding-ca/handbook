@@ -13,8 +13,9 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/fav.png',
-  organizationName: 'github-ca', // Usually your GitHub org/user name.
+  organizationName: 'getcoding-ca', // Usually your GitHub org/user name.
   projectName: 'handbook', // Usually your repo name.
+  trailingSlash: false,
 
   presets: [
     [
