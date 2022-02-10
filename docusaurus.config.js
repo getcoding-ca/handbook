@@ -13,8 +13,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/fav.png',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'github-ca', // Usually your GitHub org/user name.
+  projectName: 'handbook', // Usually your repo name.
 
   presets: [
     [
@@ -25,7 +25,7 @@ const config = {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/getcoding-ca/handbook/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: false,
         theme: {
@@ -46,7 +46,7 @@ const config = {
         },
         items: [
           {
-            href: 'https://github.com/getcoding-ca/docs',
+            href: 'https://github.com/getcoding-ca/handbook',
             label: 'Contribute in GitHub',
           },
         ],
