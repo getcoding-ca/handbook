@@ -16,7 +16,9 @@ We want the coaching sessions to be as personal and natural as possible. So no s
 - Before their first session, students are asked to install VSCode, create a github account and think about their project
 
 ## The student should always be working on a project
-For example, to learn HTML/CSS/js, they will be building a simple web app. The student selects the project; you control the scope and guide them. You can use the project as the curriculum. Start from the simple things (h1, div, etc.) to more complex parts (javascript) of the project. Check out the #projects channel in slack to see some examples.
+For example, to learn HTML/CSS/JS, they will be building a simple web app. The student selects the project; you control the scope and guide them. You can use the project as the curriculum. Start from the simple things (h1, div, etc.) to more complex parts (javascript). 
+
+Check out the #projects channel in slack to see some examples of what other students are doing.
 
 ## Your first session probably looks like this:
 - Intro
