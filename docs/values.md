@@ -14,3 +14,9 @@ Values help us with our decisions, big and small.
 - <b>Bold</b>: make the right choice even if it is radical and unusual
 - <b>Open</b>: default to transparency and honesty
 - <b>Helpful</b>: not only to students and staff, but to society
+
+## But how?
+
+- Deliver effective and affordable programs
+- Build a strong community of learners and educators
+- Coalesce with the industry
