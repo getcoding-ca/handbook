@@ -31,7 +31,7 @@ Check out the #projects channel in slack to see some examples of what other stud
 ## The student should be committing/pushing consistently
 Ideally, from day one and then every day for the rest of the program. Even if it’s a 1 line change, this helps them build an [active GitHub account](https://github.com/adam-paul952/) and get comfortable with coding.
 
-## Do what “youtube” doesn’t can't do
+## Do what “youtube” can't do
 - Code review, best practices, discussing different approaches
 - Explaining new complex concepts in a way that relates to them
 - Setting up their local dev machine, so they’re not stuck configuring stuff
