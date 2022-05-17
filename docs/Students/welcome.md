@@ -39,32 +39,29 @@ While waiting to connect with your coach and have your first session, you can do
 - Download and Install [Visual Studio Code](https://code.visualstudio.com/)
 - Make a [GitHub](https://www.github.com) Account
 
-### 2. Learn some HTML/CSS
+### 2. Git and Github
 
-We generally don’t recommend watching too many online courses, as we believe practicing writing code is more effective than watching someone do it, but given that you don’t have support from a coach yet, the following videos should be enough to help you move onto the next step:
+Learn what Git and Github are and why they are important: 
+- https://www.youtube.com/watch?v=2ReR1YJrNOM 
+- https://www.youtube.com/watch?v=HkdAHXoRtos
 
+We strongly recommend you to create a GitHub account and for each of your projects to have its own repository.
 
-- [HTML](https://www.youtube.com/watch?v=UB1O30fR-EE&t)
-- [CSS](https://www.youtube.com/watch?v=yfoY53QXEnI)
-
-:::caution
-Don’t get sucked into a hole of watching one tutorial after another, you cannot learn by watching videos, you learn by coding. 
-:::
-
-### 3. Git and Github
-
-- Learn what Git is and why it is important: https://www.youtube.com/watch?v=2ReR1YJrNOM 
-- We strongly recommend you create a GitHub account and for each of your projects to have its own repository. Here is a short intro on how to use it within Visual Studio Code: https://www.youtube.com/watch?v=HkdAHXoRtos
-
-### 4. Think of a project
+### 3. Think of a project
 
 Actually building something is the most important part of learning how to code. From the very first session, you will start working on a project with the help of your coach, but we want you to choose the project. It should be something that helps you in day-to-day life or something you would enjoy building. 
 
-At an early stage, there are 2 limitations to keep in mind for the first version of your project:
+There are 2 limitations to keep in mind for your first project:
 - You cannot have Users Profiles, Login, Registration etc.
 - You cannot store the information provided by the user between refreshes (you will learn all these later in the program)
 
-You may think every web application needs these features, but look at what our students have built: [Measurement Convertor](https://clarko1391.github.io/Shop-APPrentice/), [Simple Survival Game](https://hello-world-software-studios.github.io/lumberdome/), [2-Player TicTacToe](https://spchalil.github.io/TicTacToe2/), [Calculator](https://allison-7.github.io/calculator/)
+(you will learn how to do the above in the back-end module)
+
+You may think every web application needs these features, but look at what our students have built: 
+- [Classroom Planner](https://chadmroberts88.github.io/classroom-planner/)
+- [Todo/Planner](https://millerm30.github.io/todo/)
+- [Measurement Convertor](https://clarko1391.github.io/Shop-APPrentice/)
+- [Simple Survival Game](https://hello-world-software-studios.github.io/lumberdome/)
 
 
 :::tip
