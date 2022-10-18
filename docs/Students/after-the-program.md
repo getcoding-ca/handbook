@@ -2,6 +2,7 @@
 sidebar_position: 4
 ---
 
+
 # After the program
 
 Seriously... CONGRATULATIONS!
@@ -15,6 +16,8 @@ Here are a few things for after you sign the offer.
 Please send a message in the #general channel in Slack. This greatly motivates other students.
 
 Also don't forget to <b>thank your coaches</b>. They would really appreciate it.
+
+[Here's an example](/img/job-secured-message.png)
 
 ### LinkedIn Post
 
