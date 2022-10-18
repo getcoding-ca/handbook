@@ -1,6 +1,10 @@
-# When you get a job offer
+---
+sidebar_position: 3
+---
 
-First of all, CONGRATULATIONS! You are 99% done.
+# Evaluating job offers
+
+So you got a job offer. CONGRATULATIONS! You are 99% done.
 
 :::warning
 Employment offers can be rescinded. This happens rarely, either due to economic turmoil or if you somehow mess up:
@@ -31,21 +35,6 @@ Feel free to negotiate the starting date. Generally, it's ok to move it a couple
 
 You don't have any negotiating power over: vacation, benefits, probationary period, ... . These are generally decided at the company-level and not per individual.
 
-### Get Ready
+### Signing
 
-If you are feeling energetic, contact your future manager and ask for things you can do to speed up your onboarding, e.g. learning a new programming language or framework, tools like jira, etc.
-
-If you are feeling tired of all the learning, take this time to rest and focus before the onboarding starts.
-
-
-### Onboarding and Probationary Period
-
-A business can legally lay off employees for no cause quite easily. This is even legally easier for employers during the probationary period (mostly 3 months).
-
-The probationary period is the time that management is closely evaluating you at your new job. Ensure that you are doing your best in this period. If you experience any challenges, the Get Coding community is there to provide you with feedback and insights.
-
-### Slack Message
-
-After you sign the offer and are sure things are moving forward, please send a message in the #general channel in Slack. This greatly motivates other students.
-
-Also don't forget to thank your instructors individually either in the same message or personally. They would really appreciate it. Maybe buy them a gift too. 😁
+Sign it in a timely fashion, generally a few days. If you need more time, let us know so we can advice.

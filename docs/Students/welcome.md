@@ -81,3 +81,12 @@ For your project:
 - On a piece of paper sketch what it should look like
 - Create a GitHub Repository
 - Start with the HTML/CSS structure - don’t worry about making it beautiful, just get started to gain momentum on the easy stuff
+
+## System Requirements
+
+Don't buy a new computer unless it is hindering your progress in the program. We also have a limited number of laptops to loan for free.
+
+If you are buying a new computer, here is our recommendation:
+
+- Apple: Macbook Air M1
+- Windows: Anything with core i5 or i7, 16gb memory, SSD drive
