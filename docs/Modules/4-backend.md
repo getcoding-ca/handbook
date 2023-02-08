@@ -49,7 +49,7 @@ Under the hood, Elastic Beanstalk (EB) is essentially configuring EC2/load balan
 In the code:
 1. The main express file should be named "app.js" or "server.js"
 2. The code should listen to port 8080
-3. Zip all the files in your project, except: `node_module`, `.env`, `.git`
+3. Zip all the files in your project, except: `node_module`, `.env`, `.git` (EB automatically runs npm install and npm start commands for you.)
 
 In AWS:
 1. Create AWS Account (needs credit card and will take hours to verify)
