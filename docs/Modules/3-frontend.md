@@ -1,7 +1,7 @@
 ---
 ---
 
-# React.js
+# 3. React.js
 
 ## Expected Outcomes:
 At the end of the module, the student:

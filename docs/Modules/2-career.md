@@ -1,7 +1,7 @@
 ---
 ---
 
-# Career Transition Preparations
+# 2. Career Transition Preparations
 
 ## Expected Outcomes:
 At the end of the module, the student:

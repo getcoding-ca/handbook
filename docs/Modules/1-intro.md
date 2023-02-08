@@ -1,7 +1,7 @@
 ---
 ---
 
-# Intro to Web Dev
+# 1. Intro to Web Dev
 
 ## Expected Outcomes:
 At the end of the module, the student:
