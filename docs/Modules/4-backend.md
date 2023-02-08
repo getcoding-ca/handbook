@@ -28,6 +28,7 @@ Below are the high-level topics that we expect students to know by the end of th
 - MySQL Workbench
 - Auth: Hashed Passwords in DB + Sessions
 - Using .env or environment variables for secrets (never publish secrets to github)
+- Basic understanding of the AWS services used in deployment: EB, EC2, RDS, Route53
 
 ## Tips / Common Hiccups
 - To save time, you can use the live database instance (AWS RDS) for local development too
