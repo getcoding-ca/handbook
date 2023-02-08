@@ -35,6 +35,7 @@ Below are the high-level topics that we expect students to know by the end of th
 
 ## Nice to have:
 - Understand how a request goes from a client computer to a server and back: HTTP, TCP, DNS
+- TypeScript: highly recommended if you have a strong student
 
 ## Things to Avoid
 - Testing: we have a separate module for that
