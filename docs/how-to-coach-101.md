@@ -17,7 +17,7 @@ We want the coaching sessions to be as personal and natural as possible. No stri
 2. Some coaches like to schedule an initial 30-minute "intro" meeting to better know their student, their background, ambitions, ...
 3. Your student is asked to [prepare for their first session](./Students/welcome.md) by learning git, vscode and thinking about their project for the first module
 4. Schedule a 30-minute call with Sahand before your very first session
-5. Read the [module reference](./Modules/intro%20to%20web%20dev.md) for your module
+5. Read the [module reference](./Modules/1-intro.md) for your module
 
 ## Your First Session Probably Goes Like:
 - Intro
