@@ -46,3 +46,6 @@ On Merge to Main:
 - However, you can create a simple [/health endpoint](https://testfully.io/blog/api-health-check-monitoring/) and expect it to return 200 as the simplest form of end-point testing - [Github Action for URL Health Check](https://github.com/marketplace/actions/url-health-check)
 - There are also "half-automated" endpoint test tools with nice GUIs, e.g. Postman
 - Remember NOT to commit/push secrets on the pipeline files
+
+## Nice to Have
+- TDD, BDD
