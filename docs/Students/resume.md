@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # How to create a resume
 
 :::info
