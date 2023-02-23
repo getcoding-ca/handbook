@@ -16,7 +16,7 @@ Values help us with our decisions, big and small.
 - <b>Open</b>: default to transparency and honesty
 - <b>Helpful</b>: not only to students and staff, but to society
 
-## But how?
+## How do we succeed?
 
 - Deliver effective and affordable programs
 - Build a strong community of learners and educators

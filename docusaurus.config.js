@@ -47,7 +47,7 @@ const config = {
         items: [
           {
             href: 'https://github.com/getcoding-ca/handbook',
-            label: 'Contribute in GitHub',
+            label: 'Contribute on GitHub',
           },
         ],
       },
