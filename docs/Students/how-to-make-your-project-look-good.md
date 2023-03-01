@@ -95,7 +95,7 @@ These UI elements are functionally the same, but the right examples are preferab
 
 Additional Resources:
 
-<a href="www.dribbble.com"> Dribbble </a> is a great place to view sample work from designers, and get ideas on how to tackle individual UI elements, or entire screens/pages.
+<a href="https://www.dribbble.com"> Dribbble </a> is a great place to view sample work from designers, and get ideas on how to tackle individual UI elements, or entire screens/pages.
 
 ### Iconography
 
