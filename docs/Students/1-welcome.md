@@ -63,13 +63,7 @@ We will do a "soft" evaluation 6 weeks into the program so you know what you nee
 
 ## Next Steps
 
-1. Schedule a meeting with Sahand to discuss the above and next steps:
-
-- [Schedule a time with Sahand](https://calendly.com/sahandseifi/30-minutes)
-
-2. Before your first coaching session:
-
-- [Pick a project](./projects)
-- [Preparations](./preparations)
-
-3. Read the other stuff in this handbook!
+1. [Schedule a meeting](https://calendly.com/_sahand/30-minute) with Sahand to discuss the above and next steps
+2. Before your first coaching session, read and follow these guides:
+   - [Pick a project](./projects)
+   - [Preparations](./preparations)
