@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 5
 ---
 
 # Project Design Basics
@@ -19,7 +19,6 @@ You may have no design training or experience, and of course, your goal at Get C
 In terms of content, these two UIs are identical (same copy, buttons, inputs, etc.). Hopefully this helps illustrate just how important design choices are. From the colors you choose, to how you lay things out, to what you choose to emphasize, it all makes an enormous difference to how usable and attractive your project will be.
 </figcaption>
 </figure>
-
 
 ## Before You Start
 
@@ -58,6 +57,7 @@ Even if you’ve made solid design choices throughout your UI, a bad color schem
 </figure>
 
 Additional Resources:
+
 - <a href="https://www.canva.com/colors/color-palette-generator/"> Canva Palette Generator </a>
 - <a href="https://color.adobe.com/create/color-wheel"> Adobe Color Wheel </a>
 - <a href="https://m3.material.io/styles/color/overview"> Google Material Design Color System </a>
@@ -99,8 +99,7 @@ Additional Resources:
 
 ### Iconography
 
-Iconography can help a user quickly find things within your UI, inform a user what something does, and inject some personality into your designs. With that said, using a hodge-podge of icon styles and sizes can make things messy, and give an impression that things were just “thrown together”. Always strive to use icons that have the same style (i.e. filled vs outlined) and same weight (i.e. thin lines vs thick lines). 
-
+Iconography can help a user quickly find things within your UI, inform a user what something does, and inject some personality into your designs. With that said, using a hodge-podge of icon styles and sizes can make things messy, and give an impression that things were just “thrown together”. Always strive to use icons that have the same style (i.e. filled vs outlined) and same weight (i.e. thin lines vs thick lines).
 
 <figure>
 
@@ -135,7 +134,7 @@ Font Libraries:
 
 ### Hierarchy
 
-It’s impossible for a user to focus on every element on screen at once. It’s critical to guide their eyes, allowing them to quickly scan the UI, and focus on the important things first. 
+It’s impossible for a user to focus on every element on screen at once. It’s critical to guide their eyes, allowing them to quickly scan the UI, and focus on the important things first.
 
 Elements like header text and primary action buttons should stand out immediately. Things like secondary actions should be more subdued, so they can be focused on when or if the user needs to.
 
@@ -308,7 +307,6 @@ The goal of this UI/UX crash course is to give you some simple, high level conce
 
 ## Closing Thoughts
 
-There is so much to learn and keep up on in the realm of UI design, so if all this feels a little overwhelming, that’s understandable. It’s encouraged that as you build your project, you refer back to these design concepts to make sure you’re following good practices. 
+There is so much to learn and keep up on in the realm of UI design, so if all this feels a little overwhelming, that’s understandable. It’s encouraged that as you build your project, you refer back to these design concepts to make sure you’re following good practices.
 
 But when in doubt, perhaps the best thing you can do to help you build efficient and beautiful projects is to look to world class apps and websites for inspiration as often as you can. Allow the work of professional designers to guide your hand in making design choices, so you can focus your efforts on writing fantastic code.
-

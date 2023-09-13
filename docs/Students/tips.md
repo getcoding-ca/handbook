@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 ---
 
 # Tips for Success
@@ -42,7 +42,7 @@ Why do developers depend on Google so much?
 
 1. Most developers use a variety of languages/frameworks/tools on a day-to-day basis. For example, I just used the following at work today: css, react, node, git, aws, markup. It is simply impossible to know all of these technologies by heart.
 
-2. Software technologies change rapidly. For example, React.js did not exist 6-7 years ago. Now it used in many companies. So even senior developers are new to it and have to rely on Google/youtube/tutorials to learn new emerging technologies. A few years from now, another technology will replace this too. So, there is just no end to learning software development. 
+2. Software technologies change rapidly. For example, React.js did not exist 6-7 years ago. Now it used in many companies. So even senior developers are new to it and have to rely on Google/youtube/tutorials to learn new emerging technologies. A few years from now, another technology will replace this too. So, there is just no end to learning software development.
 
 3. Software developers don't build the same thing over and over. A software developer works on feature A, then feature B, then a bug, then a different bug, then another product, then another company. It is almost always a new different thing that you have never done before.
 
@@ -53,7 +53,7 @@ We are not trying to teach you every detail of "html/css/js". That would be poin
 
 You've seen programmers in movies write code faster than a court typist? Well...
 
-Most of your time as a software developer just goes into figuring things out:  Googling, reading the docs, reading your own code, starring at the screen in disappointment, hitting refresh 😂 That's normal.
+Most of your time as a software developer just goes into figuring things out: Googling, reading the docs, reading your own code, starring at the screen in disappointment, hitting refresh 😂 That's normal.
 
 #### Consistency > Intensity
 

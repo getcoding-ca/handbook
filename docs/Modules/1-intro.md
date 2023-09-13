@@ -1,6 +1,3 @@
----
----
-
 # 1. Intro to Web Dev
 
 ## Expected Outcomes:

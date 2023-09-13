@@ -1,11 +1,13 @@
 ---
 sidebar_position: 4
 ---
+
 # Contribution
 
 The handbook is open-source and available in [this repo](https://github.com/getcoding-ca/handbook). Pull requests will be reviewed by Sahand for now. Feel free to suggest other approaches.
 
 The handbook writing should be:
+
 - Concise, but not robotic
 - Fun and easy to read
 - English... hahaha...
@@ -19,7 +21,7 @@ Follow [this guide](https://github.com/firstcontributions/first-contributions) o
 ## Requirements
 
 - git & github
-- node v14
+- node v16
 
 ## Setup and Run:
 
