@@ -17,9 +17,9 @@ We want the coaching sessions to be as personal and natural as possible. No stri
 
 1. All students have done [a simple HTML/CSS project](https://www.getcoding.ca/admission-project) to get into the program. But some may know way more, e.g. python.
 2. Some coaches like to schedule an initial 30-minute "intro" meeting to better know their student, their background, ambitions, ...
-3. Your student is asked to [think about a project](../Students/2-projects) and [prepare for their first session](../Students/1-welcome) by learning git, vscode and thinking about their project for the first module
+3. Your student is asked to [think about a project](../Students/2-projects.md) and [prepare for their first session](../Students/1-welcome.md) by learning git, vscode and thinking about their project for the first module
 4. Schedule a 30-minute call with Sahand before your very first session
-5. Read the [module reference](../Modules/1-intro) for your module
+5. Read the [module reference](../Modules/1-intro.md) for your module
 
 ## Your First Session Probably Goes Like:
 
