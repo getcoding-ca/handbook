@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Welcome to Get Coding!
 
-Please follow this guide carefully (30 minutes)
+Please read and follow this guide carefully when you have some time.
 
 <iframe src="https://giphy.com/embed/l4JyOCNEfXvVYEqB2" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
@@ -18,13 +18,13 @@ Please follow this guide carefully (30 minutes)
 
 Let's set some expecations. We expect you to:
 
-- Code +15 hours a week every week
-- No to take long breaks from the program
+- Code +15 hours a week consistently
+- Not to take long breaks from the program
 - Maintain a great relationship with your coach
 
 You can expect us to:
 
-- Match you with qualified coaches
+- Match you with qualified coaches for 1-on-1 coaching sessions
 - Give you honest feedback
 - Help you when you need it
 
@@ -63,7 +63,6 @@ We will do a "soft" evaluation 6 weeks into the program so you know what you nee
 
 ## Next Steps
 
-1. [Schedule a meeting](https://calendly.com/_sahand/30-minute) with Sahand to discuss the above and next steps
-2. Before your first coaching session, read and follow these guides:
-   - [Pick a project](./projects)
-   - [Preparations](./preparations)
+It's time to think of your first project:
+
+[👉 Projects Guide](./projects)
