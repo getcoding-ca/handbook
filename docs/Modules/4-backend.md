@@ -4,10 +4,21 @@
 # 4. Back-end & Database
 
 Recommended Stack:
-- Express (deployed to Elastic Beanstalk)
-- MySQL (deployed to Amazon RDS)
+
+- NL
+  - Express (deployed to Elastic Beanstalk)
+  - MySQL (deployed to Amazon RDS)
+- NB/NS/PEI
+  - Python (Framework - being discussed)
+  - MySQL (deployed to Amazon RDS)
+
+## Duration
+
+- Average for past successful students: 18 sessions
+- 90th percentile: 24
 
 ## Expected Outcomes:
+
 At the end of the module, the student:
 
 ✅ Is considered hireable as a junior back-end developer
@@ -19,6 +30,7 @@ At the end of the module, the student:
 ✅ Has their project deployed in the cloud and understands the role of EB/EC2, RDS and Github Pages
 
 ## Topics
+
 Below are the high-level topics that we expect students to know by the end of this module:
 
 - REST API Design
@@ -31,14 +43,17 @@ Below are the high-level topics that we expect students to know by the end of th
 - Basic understanding of the AWS services used in deployment: EB, EC2, RDS, Route53
 
 ## Tips / Common Hiccups
+
 - To save time, you can use the live database instance (AWS RDS) for local development too
 - Avoid ORMs unless you know a good one for Node and SQL. They generally suck and are difficult to set up.
 
 ## Nice to have:
+
 - Understand how a request goes from a client computer to a server and back: HTTP, TCP, DNS
 - TypeScript: highly recommended if you have a strong student
 
 ## Things to Avoid
+
 - Testing: we have a separate module for that
 
 ## Deploying
@@ -48,11 +63,13 @@ Under the hood, Elastic Beanstalk (EB) is essentially configuring EC2/load balan
 :::
 
 In the code:
+
 1. The main express file should be named "app.js" or "server.js"
 2. The code should listen to port 8080
 3. Zip all the files in your project, except: `node_module`, `.env`, `.git` (EB automatically runs npm install and npm start commands for you.)
 
 In AWS:
+
 1. Create AWS Account (needs credit card and will take hours to verify)
 2. Go to Billing -> Budget and create a budget/alert
 3. Go to Elastic Beanstalk (use the Old Dashboard)
@@ -64,12 +81,13 @@ In AWS:
 
 :::tip
 Elastic Beanstalk Terminology:
+
 - Application, e.g. "project1", "project2"
 - Environment, e.g. "production", "staging" belonging to an application (If you follow the process above, you will have 1 default environment for your application)
 - Application Versions, the zipped and uploaded code
-:::
+  :::
 
 Other things you can do:
+
 - Set Environment Variabes on the server: `configuration/software/environment variables`
 - Upload new code: Go to `Application versions`, upload a new .zip, select the new .zip and choose "Deploy" from Actions menu
-

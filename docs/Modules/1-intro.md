@@ -1,5 +1,10 @@
 # 1. Intro to Web Dev
 
+## Duration
+
+- Average for past successful students: 12 sessions
+- 90th percentile: 19
+
 ## Expected Outcomes:
 
 At the end of the module, the student:
