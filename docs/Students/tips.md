@@ -53,7 +53,7 @@ We are not trying to teach you every detail of "html/css/js". That would be poin
 
 You've seen programmers in movies write code faster than a court typist? Well...
 
-Most of your time as a software developer just goes into figuring things out: Googling, reading the docs, reading your own code, starring at the screen in disappointment, hitting refresh 😂 That's normal.
+Most of your time as a software developer just goes into figuring things out: Googling, reading the docs, reading your own code, staring at the screen in disappointment, hitting refresh 😂 That's normal.
 
 #### Consistency > Intensity
 
