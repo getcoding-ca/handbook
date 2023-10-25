@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Welcome to Get Coding!
 
-Please read and follow this guide carefully when you have some time.
+Please read and follow this guide carefully to be assigned a coach.
 
 <iframe src="https://giphy.com/embed/l4JyOCNEfXvVYEqB2" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
@@ -61,8 +61,8 @@ Below are some areas where our past successful students excelled at. We will als
 
 We will do a "soft" evaluation 6 weeks into the program so you know what you need to improve upon by the end of the first module.
 
-## Next Steps
+## Next Step
 
-It's time to think of your first project:
+Now you need to think of a project idea to be assigned a coach:
 
 [👉 Projects Guide](./projects)

@@ -35,4 +35,4 @@ We recommend [The Odin Project](https://www.theodinproject.com/paths/foundations
 
 ### Next Steps
 
-This it it for now, but feel free to browse the other parts of this handbook!
+That's it for now until you are assigned a coach. Feel free to browse the other parts of this handbook!

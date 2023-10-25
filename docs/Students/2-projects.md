@@ -75,7 +75,7 @@ These will help you communicate your idea with your coach and also keeps you on 
 
 ## Next Steps
 
-1. [Schedule a meeting](https://calendly.com/_sahand/30-minute) with Sahand to discuss everything you read so far and the next steps
-2. This next guide helps you prepare for your first session, even make progress with your project, before meeting the coach:
+1. [Schedule a meeting](https://calendly.com/_sahand/30-minute) with Sahand to discuss these steps and to be assigned a coach
+2. Continue to the next guide which helps you prepare for your first coaching session:
 
 [👉 Preparing for your first session](./preparations)
