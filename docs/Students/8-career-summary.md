@@ -34,21 +34,24 @@ import experience from '@site/static/img/experience.jpeg';
 
 <img src={experience} style={{maxWidth: "400px"}} /><p></p>
 
-Portfolio: everything you've built
+The meme above rings true for most fields, but not for tech. You can build your own experience by working on external projects:
 
-- Get Coding projects
-- Real projects from freelancing or volunteering
-- Your github repos
-- ...
+- Find a newly formed startup that needs a website/app
+- Find a non-profit that needs your help
+- Family/friends with a business
+- Local business needing your skills
 
-We'll list all these on your LinkedIn and GitHub. Optionally, you can create a portfolio website.
+The best applicants look like this:
 
-An applicant with a good portfolio:
-
-- Has some real external projects, e.g. an app for XYZ startup
+- Has some **real** external projects, e.g. an app for XYZ org
 - Projects are complex
 - Projects look nice
-- Has an active Github
+- An active Github
+
+Where does your portfolio live?
+
+- We'll list everything you've done on your LinkedIn and GitHub
+- Optionally, you can create a portfolio website to showcase everything
 
 ### 3. Interviews
 
