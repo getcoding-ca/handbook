@@ -79,3 +79,12 @@ Here's a list of some of the projects for this module:
 - https://danieltstoyles.github.io/wowprojectone/
 - https://SamTessier.github.io/Maintenance-Planner/
 - https://celw10.github.io/nl_minearl_expl/
+- https://shaneedw7.github.io/Onitama-Clone/
+- https://sarabjits.github.io/Chess-Openings/
+- https://chelseajcaines.github.io/MyFunds/
+- https://mgr514.github.io/Workload-Assessment-Tool/
+- https://colletteap.github.io/gratitude-planner/
+- https://gyro-trix.github.io/MatchDungeon/
+- https://brucechafe.github.io/projectplant/
+- https://samsymes.github.io/travelsage/
+- https://alliebourden.github.io/gameguide/
