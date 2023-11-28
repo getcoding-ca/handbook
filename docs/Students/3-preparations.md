@@ -1,8 +1,9 @@
 ---
 sidebar_position: 3
+sidebar_label: Prepare for The Intro Module
 ---
 
-# Preparation
+# Prepare for The Intro Module
 
 While waiting to connect with your coach and have your first session, you can do a few things to speed up your learning:
 

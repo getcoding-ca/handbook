@@ -1,7 +1,3 @@
----
-sidebar_position: 7
----
-
 # How to create a resume
 
 :::info
@@ -19,6 +15,7 @@ If your LinkedIn is not updated, update it first.
 We use the Figma application for resume writing. Figma is mainly a design tool, but we use it because the end result will end up looking a lot better than Word.
 
 Steps:
+
 1. Create an account in [Figma.com](https://www.figma.com)
 2. Open [this link](https://www.figma.com/community/file/1146516158149783580)
 3. Press "Get a copy" at the top
@@ -40,7 +37,7 @@ When editing the links on the left, make sure to also edit the destination URL. 
 
 ### 3. Export to PDF
 
-When you are done editing, 
+When you are done editing,
 
 1. Select the whole thing (the Frame)
 2. Scroll to the bottom of the right panel and press "Export Frame"

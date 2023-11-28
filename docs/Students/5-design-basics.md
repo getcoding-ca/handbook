@@ -2,7 +2,9 @@
 sidebar_position: 5
 ---
 
-# Project Design Basics
+# Design Basics
+
+Let's make your project look nice!
 
 ## Why it matters?
 

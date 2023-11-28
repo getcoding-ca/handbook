@@ -1,8 +1,3 @@
----
-sidebar_position: 6
----
-
-
 # After the program
 
 Seriously... CONGRATULATIONS!
@@ -28,7 +23,6 @@ Update your LinkedIn profile and post an update on your LinkedIn. This is a grea
 If you are feeling energetic, contact your future manager and ask for things you can do to speed up your onboarding. Example: learning a new programming language, framework, tools like jira, etc.
 
 If you are feeling tired, rest up and get ready for...
-
 
 ### Onboarding and Probationary Period
 

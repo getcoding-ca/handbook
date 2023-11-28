@@ -1,7 +1,3 @@
----
-sidebar_position: 5
----
-
 # Evaluating job offers
 
 So you got a job offer. CONGRATULATIONS! You are 99% done.
@@ -13,7 +9,7 @@ Employment offers can be rescinded. This happens rarely, either due to economic 
 - negotiating too hard
 - communicating poorly or unprofessionally
 - going silent or taking too long to respond
-:::
+  :::
 
 Here are a some tips:
 
@@ -31,7 +27,7 @@ As soon as you get the offer, let Sahand or Jan know. They can help you understa
 
 Since you are a junior in this sector you don't have much choice, so you don't want to negotiate anything strongly. If you have any concerns, let Sahand or Jan know and they'll help you out.
 
-Feel free to negotiate the starting date. Generally, it's ok to move it a couple weeks. Be clear and honest in your communications and explain why, e.g. trip, notice to current job, ... 
+Feel free to negotiate the starting date. Generally, it's ok to move it a couple weeks. Be clear and honest in your communications and explain why, e.g. trip, notice to current job, ...
 
 You don't have any negotiating power over: vacation, benefits, probationary period, ... . These are generally decided at the company-level and not per individual.
 
