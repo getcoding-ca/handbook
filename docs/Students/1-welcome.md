@@ -21,6 +21,7 @@ Let's set some expecations. We expect you to:
 - Code +15 hours a week consistently
 - Not to take long breaks from the program
 - Maintain a great relationship with your coach
+- Don't apply to jobs without our feedback
 
 You can expect us to:
 
