@@ -12,6 +12,14 @@ Some students choose to do a complex project (front-end with React, back-end wit
   - [Example](https://docs.google.com/document/d/1MxV89oTqurjmpwovcgrg_n9L7D9EQ83w/edit?usp=sharing&ouid=103453500244994698980&rtpof=true&sd=true)
 - Wireframe it
 
+Here are some of the react projects other students have built:
+
+- [Chorebucks, incentiving kids to do chores by Mike Miller](https://www.chore-bucks.com/)
+- [Pricewatcher, a Runescape exchange price monitoring tool by Dennis Kean](https://djkean.github.io/pricewatcher)
+- [Nurse Assignment Management by Hiba Mohamed](https://hiba-mohamed.github.io/Reactjs-Nurses-Assignment-Sheet/)
+- [SoSep, 2-player Backgammon game by Soheil Najmabadikia](https://soheilnk.github.io/Backgammon/)
+- [OA, a music album production management software by Evan Watton](https://ao-demo.vercel.app/)
+
 ## Prepare mentally
 
 This module is a lot to take in. If you feel overwhelmed, that's normal.
