@@ -43,7 +43,15 @@ Below are the topics that we expect students to know by the end of this module:
 - Stateless components
 - react-router
 
-## Nice to have:
+## Avoid:
 
 - Performance optimization
 - Redux
+
+## Projects:
+
+- [Chorebucks, incentiving kids to do chores by Mike Miller](https://www.chore-bucks.com/)
+- [Pricewatcher, a Runescape exchange price monitoring tool by Dennis Kean](https://djkean.github.io/pricewatcher)
+- [Nurse Assignment Management by Hiba Mohamed](https://hiba-mohamed.github.io/Reactjs-Nurses-Assignment-Sheet/)
+- [SoSep, 2-player Backgammon game by Soheil Najmabadikia](https://soheilnk.github.io/Backgammon/)
+- [OA, a music album production management software by Evan Watton](https://ao-demo.vercel.app/)
