@@ -64,7 +64,7 @@ This helps them build an [active GitHub account](https://github.com/adam-paul952
 
 ## House Keeping / Payments
 
-- Please message Jan and send him a pro picture, your title, company and technologies you are an expert in. It’s going on our website [like this](https://www.get-coding.ca/our-instructors).
+- Please message Jan and send him a pro picture, your title, company and technologies you are an expert in. It’s going on our website [like this](https://www.get-coding.ca/our-team).
 
 - Use the Get Coding app ([Web](https://app.getcoding.ca/), [Android](https://play.google.com/store/apps/details?id=ca.getcoding.app), [iOS](https://apps.apple.com/us/app/6444653874)) to log your sessions and get paid.
 
