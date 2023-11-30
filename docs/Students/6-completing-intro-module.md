@@ -26,4 +26,4 @@ If you don't hear from us within 1 week, please reach out to us on Slack.
 
 ## After you are accepted:
 
-[👉 Start preparing for the Career Module](./7-career)
+[👉 Start preparing for the Career Module](./career-prep)

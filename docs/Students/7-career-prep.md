@@ -101,4 +101,4 @@ There have been students who apply with terrible resumes, and naturally they get
 
 ## Extra Mile
 
-Feel free to read the [Summary of the Career Module](./8-career-summary), which we'll talk about in depth during our sessions.
+Feel free to read the [Summary of the Career Module](./career-summary), which we'll talk about in depth during our sessions.
