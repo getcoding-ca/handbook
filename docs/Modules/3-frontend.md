@@ -12,7 +12,7 @@
 
 At the end of the module, the student:
 
-- Understands the [3-tier architecture](https://www.codeauthority.com/Blog/Entry/three-tier-architecture), limitations and responsibilities of each tier
+- Understands the 3-tier architecture (client/server/db); responsibilities and limitations of each tier
 - Can create fairly complex front-ends using React.js without help
 - Is hireable as a junior front-end developer
 
