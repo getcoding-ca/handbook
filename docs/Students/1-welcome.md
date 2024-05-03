@@ -54,9 +54,11 @@ Cause for Concern: not enjoying coding, feeling burnt out, or depressed.
 
 Below are some areas where our past successful students excelled at. We will also evaluate you through the same lens:
 
-- Commitment: how much you code, how fast you progress, your github activity
-- Great communication
-- Your coach's review of you
+- Commitment: consistency, punctual, speed of progress, github activity
+- Communication: proactive, communicative, direct, provides feedback, explains well, listens
+- Autonomy: being able to solve problems on your own as time goes on
+- Coachability: Open to feedback, applies feedback, follows recommendations
+- Being a life-time learner: consumes resources, researches more, curious, eager, experiments, asks questions
 - Project: complexity, aesthetics, creativity
 - Community: attending events, being active in Slack, sharing your progress, helping others
 
