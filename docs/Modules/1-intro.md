@@ -57,16 +57,14 @@ Below are the topics that we expect students to know by the end of this module:
 
 - branching, merging, pull requests
 
-## Project Guide:
+## Some Tips:
 
-Some tips:
-
+- Don't spend too much time on HTML/CSS; focus on JS
+- Use a UI after a few sessions to make the project look nice
 - Check the #projects channel to see what others are doing
-- No plain websites/portfolio (not enough JS)
 - This is probably their first ever programming experience, keep it small in scope
 - There are lots of open APIs (weather, stock, restaurants, movies)
-
-There are 2 great ways of helping a student find a good project: Asking them if during their day to day, or during their hobbies they wish there was a tool that would help them save time or would be great to have.
+- Use localstorage to save data between sessions, e.g. API Keys, user's name
 
 ## Project Bank
 
@@ -88,3 +86,21 @@ Here's a list of some of the projects for this module:
 - https://brucechafe.github.io/projectplant/
 - https://samsymes.github.io/travelsage/
 - https://alliebourden.github.io/gameguide/
+- https://stevengranter.github.io/wieners-maple-syrup/
+- https://jlc758.github.io/Get-Coding-Module-1/
+- https://github.com/thefirstnoellle/habitHaven
+- https://justindotrocks.github.io/SpeciesFinder/#
+- https://geoffdeal.github.io/DailyScroll/
+- https://mrdiamondnl.github.io/Fantasy-Homepage/
+- https://katnuotio.github.io/getcodingescaperoom/
+- https://dannyboi-john.github.io/Pixelator_Alligator/
+- https://alexivany.github.io/MixNote/
+- https://keithawarren.github.io/ApptPlanner/
+- https://jayeyem.github.io/Salmon-Flow-Game/
+- https://jwh709.github.io/Groove-Jumper/
+- https://col-ian.github.io/Starfinder-GM-Helper/index.html
+- https://peavy101.github.io/Nail-the-audition/
+- https://sumusa.github.io/biztrack/
+- https://greynewfie.github.io/heros-log/
+- https://casslee1.github.io/PickATrail/
+- https://mottlly.github.io/SeekitStart/

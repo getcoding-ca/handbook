@@ -91,3 +91,9 @@ Other things you can do:
 
 - Set Environment Variabes on the server: `configuration/software/environment variables`
 - Upload new code: Go to `Application versions`, upload a new .zip, select the new .zip and choose "Deploy" from Actions menu
+
+## Projects
+
+- https://divvyitup.ca
+- https://www.chore-bucks.com/
+-

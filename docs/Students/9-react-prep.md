@@ -19,6 +19,12 @@ Here are some of the react projects other students have built:
 - [Nurse Assignment Management by Hiba Mohamed](https://hiba-mohamed.github.io/Reactjs-Nurses-Assignment-Sheet/)
 - [SoSep, 2-player Backgammon game by Soheil Najmabadikia](https://soheilnk.github.io/Backgammon/)
 - [OA, a music album production management software by Evan Watton](https://ao-demo.vercel.app/)
+- https://chelseajcaines.github.io/balloon-pop-game/
+- https://github.com/Gyro-trix/pantry-pal
+- https://samsymes.github.io/VisaVista/
+- https://alliebourden.github.io/fableforge/
+- https://marktaylor7.github.io/TheFinalLap/
+- https://jamiebursey.github.io/FriendlyBets/
 
 ## Prepare mentally
 
