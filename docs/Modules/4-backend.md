@@ -5,56 +5,81 @@
 
 Recommended Stack:
 
-- NL
-  - Express (deployed to Elastic Beanstalk)
-  - MySQL (deployed to Amazon RDS)
-- NB/NS/PEI
-  - Python (Framework - being discussed)
-  - MySQL (deployed to Amazon RDS)
+- Express (deployed to Elastic Beanstalk)
+- MySQL (deployed to Amazon RDS)
+- Jest
+- Github Actions
 
 ## Duration
 
-- Average for past successful students: 18 sessions
-- 90th percentile: 24
+- Average for past successful students: 20 sessions
+- 90th percentile: 26
 
 ## Expected Outcomes:
 
 At the end of the module, the student:
 
-✅ Is considered hireable as a junior back-end developer
+✅ Is considered hireable as a junior full-stack developer
 
-✅ Can create fairly complex back-ends using Node.js/Express without help
+✅ Can create moderately complex back-ends and databases without help
 
-✅ Can design relational databases for common use-cases
+✅ Has their project deployed in the cloud, with basic understanding of the AWS resources
 
-✅ Has their project deployed in the cloud and understands the role of EB/EC2, RDS and Github Pages
+✅ Has written a few basic automated tests (we recommend unit and integration for their ease)
+
+✅ Has a rudementary CI/CD pipeline to test and deploy
 
 ## Topics
 
 Below are the high-level topics that we expect students to know by the end of this module:
 
+Back-end Stuff:
+
 - REST API Design
 - Postman
 - Debugging using VSCode
 - SQL/MySQL: insert, select, update, delete, join
-- MySQL Workbench
-- Auth: Hashed Passwords in DB + Sessions
 - Using .env or environment variables for secrets (never publish secrets to github)
+- MySQL Workbench (or some other client)
+- Auth: Hashed Passwords in DB + Sessions
+- Jest
+- Testing good practices
+  - Organized structure (description, expectation)
+  - Atomic
+  - Independent
+- Understanding where/why use different tests: unit, integration, endpoint, end-to-end
+
+DevOps stuff:
+
+- What the heck is CI/CD? What is "DevOps"?
 - Basic understanding of the AWS services used in deployment: EB, EC2, RDS, Route53
-
-## Tips / Common Hiccups
-
-- To save time, you can use the live database instance (AWS RDS) for local development too
-- Avoid ORMs unless you know a good one for Node and SQL. They generally suck and are difficult to set up.
+- Github actions / pipelines
 
 ## Nice to have:
 
 - Understand how a request goes from a client computer to a server and back: HTTP, TCP, DNS
 - TypeScript: highly recommended if you have a strong student
 
-## Things to Avoid
+## Tips / Common Hiccups
 
-- Testing: we have a separate module for that
+- Remember NOT to commit/push secrets on the pipeline files
+- To save time, you can use the live database instance (AWS RDS) for local development too
+- Avoid ORMs unless you know a good one for Node and SQL. They generally suck and are difficult to set up.
+- We recommend only trying unit and integration tests. We have found end-point testing (jest) and end-to-end testing (cypress) difficult due to the amount of set up
+- However, you can create a simple [/health endpoint](https://testfully.io/blog/api-health-check-monitoring/) and expect it to return 200 as the simplest form of end-point testing - [Github Action for URL Health Check](https://github.com/marketplace/actions/url-health-check)
+- There are also "half-automated" endpoint test tools with nice GUIs, e.g. Postman
+
+## Recommended Pipeline Steps
+
+On Pull Request:
+
+- Prettier and/or ESLint checks
+- Unit Tests and Integration Tests
+
+On Merge to Main:
+
+- Deploy - [Github Action for Elastic Beanstalk](https://github.com/marketplace/actions/beanstalk-deploy)
+- Health check
 
 ## Deploying
 
