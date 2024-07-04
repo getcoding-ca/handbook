@@ -16,11 +16,11 @@ Please read and follow this guide carefully to be assigned a coach.
 
 ### Expectations
 
-Let's set some expecations. We expect you to:
+Let's set some expecations:
 
-- Code +15 hours a week consistently
-- Not to take long breaks from the program
-- Maintain a great relationship with your coach
+- 1-hour coaching session **every week**
+- Code **+15 hours** every week
+- **No long breaks** from the program (3 or more weeks)
 - Don't apply to jobs without our feedback
 
 You can expect us to:
