@@ -1,7 +1,14 @@
 ---
 ---
 
-# 3. React.js
+# 2. Front-End
+
+Recommended stack:
+
+- React using Vite
+- TypeScript? Optional based on the student
+- Definitely a UI library like Material-UI, TailwindCSS, or AntDesign
+- **NO REDUX** (explained below)
 
 ## Duration
 
@@ -12,9 +19,10 @@
 
 At the end of the module, the student:
 
-- Understands the 3-tier architecture (client/server/db); responsibilities and limitations of each tier
-- Can create fairly complex front-ends using React.js without help
-- Is hireable as a junior front-end developer
+✅ Understands the 3-tier architecture (client/server/db); responsibilities and limitations of each tier
+✅ Can create fairly complex front-ends using React.js without help
+✅ Is hireable as a junior front-end developer
+✅ Has the project deployed and live (Github Pages, )
 
 ## Topics
 
@@ -46,7 +54,7 @@ Below are the topics that we expect students to know by the end of this module:
 ## Avoid:
 
 - Performance optimization
-- Redux
+- Redux: We have tried redux with 2 students and they both suffered. Both coaches regretted the decision.
 
 ## Projects:
 
