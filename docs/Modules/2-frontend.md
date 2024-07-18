@@ -22,7 +22,7 @@ At the end of the module, the student:
 ✅ Understands the 3-tier architecture (client/server/db); responsibilities and limitations of each tier
 ✅ Can create fairly complex front-ends using React.js without help
 ✅ Is hireable as a junior front-end developer
-✅ Has the project deployed and live (Github Pages, )
+✅ Has the project deployed and live (Github Pages)
 
 ## Topics
 
