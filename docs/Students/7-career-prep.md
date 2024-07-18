@@ -6,20 +6,39 @@ sidebar_label: 😎 Prepare for the Career Module
 
 ## Join Relevant Organizations
 
-These organizations throw or publicize events that you should be attending:
+These organizations throw or publicize events that you should be attending.
 
-- TechNL (Student Membership) -> Newsletter
-  - Various types of events
-- CTSNL -> Slack
-  - Weekly meetups
-- Genesis Centre -> Newsletter
-  - Events where entrepreneurs pitch their tech companies
-  - Almost every success tech company in NL has been "born" at Genesis
-- For female students:
-  - WISENL -> student membership
-  - Tequity+ -> Linkedin Group
+### NL
 
-We also try to post everything in our #events Slack channel.
+- Our #events slack channel
+- TechNL
+  - Join the Student Membership
+  - Read the Newsletter
+  - Attend every event possible
+- Genesis Centre
+  - Read the Newsletter
+  - Attend every event possible
+  - This is where entrepreneurs hang out, most tech companies in NL are born here
+- CTSNL
+  - Read the Slack
+  - Attend meetups
+- For women:
+  - WISENL (student membership)
+  - Tequity+ (Linkedin Group)
+
+### NS
+
+- Digital Nova Scotia
+  - Read the Newsletter
+  - Keep track of the Events page
+  - Attend every event possible
+- Volta
+  - Read the Newsletter
+  - Attend every event possible
+  - This is where entrepreneurs hang out, most tech companies in NS are born here
+- Cove
+  - Keep track of the Events page
+  - Attend every event possible
 
 ## Professional Github Profile
 
