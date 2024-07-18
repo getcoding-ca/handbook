@@ -10,6 +10,8 @@ Please read and follow this guide carefully to be assigned a coach.
 
 ### Slack
 
+Slack is the only way we communicate going forward. Please don't send emails.
+
 1. Install Slack's on your computer and phone
 2. Update your name/profile picture. Take a nice photo if you don't have one.
 3. Introduce yourself in the #casual channel. Include your background, why you joined Get Coding, hobbies, fun facts, etc.
