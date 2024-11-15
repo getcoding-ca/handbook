@@ -12,9 +12,15 @@ Most students work on 2 projects during Get Coding:
 1. A simple web-based application during the first module using HTML, CSS, and JavaScript
 2. A more complex web application throughout the rest of the program using React, Node or Python, and Databases
 
-## Idea
+## What is a good project idea?
 
-You should come up with your own project idea. It is very important that you are genuinely interested in it. It could be something that you wish you had, or something that helps you in day-to-day life or something you would really enjoy building.
+1. It's something personal to you, something you are excited about
+2. It matches the scope of the module
+3. It's something you haven't worked on before
+
+## How do I come up with a project idea?
+
+It is very important that you are genuinely interested in it. It could be something that you wish you had, or something that helps you in day-to-day life or something you would really enjoy building.
 
 Be creative. It doesn't have to be a big idea, it can be something small and simple. The coach will assist you in "right-sizing" the project: if it's too simple the coach can suggest ways to expand it and vice-versa.
 
