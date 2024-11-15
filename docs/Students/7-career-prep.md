@@ -94,7 +94,7 @@ These organizations throw or publicize events that you should be attending.
     - Result: what was the result of that action?
     - Example: I joined Schlumberger after graduating from school. As a field technical, my role was to install and maintain electrical equipments used in the field. I'm proud to have followed all safety procedures and never had an accident. As a result, we created a safe work environment for everyone and passed all safety audits with ease.
 - Education
-  - Include Get Coding
+  - Include Get Building
   - Add a paragraph for each: explain why that program, how it went, what it led you to do next
   - Don't include high school
 - Skills

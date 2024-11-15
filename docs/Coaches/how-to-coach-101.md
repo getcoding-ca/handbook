@@ -30,7 +30,7 @@ We want the coaching sessions to be as personal and natural as possible. No stri
 - Give them some detailed tasks for next week
 - Send them resources (youtube, how-to's, ...)
 
-## Projects Are The Core of Get Coding
+## Projects Are The Core of Get Building
 
 - The student MUST select the project
 - You should control the scope so it's not too big/small
@@ -66,6 +66,6 @@ This helps them build an [active GitHub account](https://github.com/adam-paul952
 
 - Please message Jan and send him a pro picture, your title, company and technologies you are an expert in. It’s going on our website [like this](https://www.get-coding.ca/our-team).
 
-- Use the Get Coding app ([Web](https://app.getcoding.ca/), [Android](https://play.google.com/store/apps/details?id=ca.getcoding.app), [iOS](https://apps.apple.com/us/app/6444653874)) to log your sessions and get paid.
+- Use the Get Building app ([Web](https://app.getcoding.ca/), [Android](https://play.google.com/store/apps/details?id=ca.getcoding.app), [iOS](https://apps.apple.com/us/app/6444653874)) to log your sessions and get paid.
 
 - Feel free to use the Slack channel to chat with any of the other students or coaches, promote events, share resources or jobs, etc.

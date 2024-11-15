@@ -26,17 +26,17 @@ If you are feeling tired, rest up and get ready for...
 
 ### Onboarding and Probationary Period
 
-The probationary period, typically 3-6 months, is the time that management is closely evaluating you at your new job. Ensure that you are doing your best in this period. If you experience any challenges, <b>the Get Coding community is there to help</b>.
+The probationary period, typically 3-6 months, is the time that management is closely evaluating you at your new job. Ensure that you are doing your best in this period. If you experience any challenges, <b>the Get Building community is there to help</b>.
 
 ### Stay Connected, Ask for Help
 
-You are a lifetime member of Get Coding. Feel free to:
+You are a lifetime member of Get Building. Feel free to:
 
 - Ask for help from us, your coaches or other graduates
 - Attend webinars, events, ...
 - Message and contribute in Slack
 
-### Coaching at Get Coding
+### Coaching at Get Building
 
 After you get some real world experience, we would love to interview you to become a coach yourself!
 

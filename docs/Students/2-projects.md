@@ -5,9 +5,9 @@ sidebar_label: Project Guide
 
 # Project Guide
 
-Projects are at the core of Get coding. Actually building something is the most important part of learning how to code. From the very first session, you will start working on a project.
+Projects are at the core of Get Building. Actually building something is the most important part of learning how to code. From the very first session, you will start working on a project.
 
-Most students work on 2 projects during Get Coding:
+Most students work on 2 projects during Get Building:
 
 1. A simple web-based application during the first module using HTML, CSS, and JavaScript
 2. A more complex web application throughout the rest of the program using React, Node or Python, and Databases

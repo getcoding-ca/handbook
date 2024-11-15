@@ -15,7 +15,7 @@ sidebar_position: 5
 ### Intro Program Completion:
 
 1. Coach request feedback on completion (how? not sure yet)
-2. Get Coding staff review, then approve or provide feedback improvements based on project quality
+2. Get Building staff review, then approve or provide feedback improvements based on project quality
 3. Then mark as complete when coach is comfortable
    - There is the chance student taking longer than acceptable and not being able to complete
 

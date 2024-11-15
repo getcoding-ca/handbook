@@ -8,7 +8,7 @@ Let's make your project look nice!
 
 ## Why it matters?
 
-You may have no design training or experience, and of course, your goal at Get Coding is not to become a designer. However, there are two important reasons why you should strive to learn the basics of good design.
+You may have no design training or experience, and of course, your goal at Get Building is not to become a designer. However, there are two important reasons why you should strive to learn the basics of good design.
 
 1. You’ll be judged by the appearance of your projects. Even if your code is impeccable, if your project doesn’t look great, it could distract potential employers from fully appreciating your wonderful code.
 2. You will work with designers. Once you score a job, it’s very likely you will be handed designs and asked to make them a reality. If you understand core design concepts, you’ll be better able to code designs, provide better feedback to designers, and ultimately make everyone’s life easier (including your own).
@@ -262,7 +262,7 @@ In order to keep things simple and straightforward, it’s often better to break
 
 ## Core Elements
 
-The goal of this UI/UX crash course is to give you some simple, high level concepts to help you design. However, some UI elements turn up in so many Get Coding projects that they warrant a little more detailed discussion.
+The goal of this UI/UX crash course is to give you some simple, high level concepts to help you design. However, some UI elements turn up in so many Get Building projects that they warrant a little more detailed discussion.
 
 ### Navigation
 
