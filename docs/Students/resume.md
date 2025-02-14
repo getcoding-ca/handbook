@@ -1,44 +1,41 @@
 # How to create a resume
 
-:::info
-This guide is only for those who have completed the _Career Switching Preparation Module_.
+## Resume Contents
+
+Generally speaking, you want your resume and linkedin to match as much as possible. However, resume should be shorter. Most students at Get Building should be able to get their resume in 1 page, or max 2. Definitely not 3.
+
+Make edits to your resume to match the particular job posting you are sending it for.
+
+These are the important sections in a resume:
+
+Primary sections:
+
+- Intro
+- Work experience, 0 to 1-2 that are relevant
+- Education including Get Building
+- Projects, 2-3 that are relevant, with links
+- Skills
+
+Other important info:
+
+- Email
+- Github
+- Linkedin
+- Get Building Webpage
+- Portfolio site if you have one
+
+## Resume Design
+
+I cannot stress enough how important the design of your resume is. It is the first impression you make on the recruiter. An ugly resume is like wearing a dirty shirt to an interview. A beautiful resume is expected in the tech sector.
+
+## How To
+
+Your resume is best to be in doc format, and exported to PDF when necessary. For example, search for "modern word resume templates" and pick one you like.
+
+::: tip
+Don't use Canva, Figma or other design tools to create your resume. It will make it not parseable by the ATS (Applicant Tracking System) that most companies use.
 :::
 
-## 1. Contents of the Resume
+### Get Help
 
-We will be using the contents of your LinkedIn profile in the resume almost identically. You only need to make minor edits to shorten paragraphs or to emphasize certain skill sets for a particular job posting.
-
-If your LinkedIn is not updated, update it first.
-
-## 2. Creating the Resume
-
-We use the Figma application for resume writing. Figma is mainly a design tool, but we use it because the end result will end up looking a lot better than Word.
-
-Steps:
-
-1. Create an account in [Figma.com](https://www.figma.com)
-2. Open [this link](https://www.figma.com/community/file/1146516158149783580)
-3. Press "Get a copy" at the top
-4. Start editing
-
-**To change the photo** double click on the photo multiple times until a small panel appears. Hover over the photo in the panel and press "Choose Image".
-
-:::warning
-If your photo file size is too large, the final PDF file will also be too large.
-:::
-
-**To change the text** double click on the text until you are in the editing mode.
-
-**To add a new section** click on a section, copy and paste using the keyword.
-
-:::warning
-When editing the links on the left, make sure to also edit the destination URL. Hover over the link and press edit to change the destination URL.
-:::
-
-### 3. Export to PDF
-
-When you are done editing,
-
-1. Select the whole thing (the Frame)
-2. Scroll to the bottom of the right panel and press "Export Frame"
-3. Ensure everything looks fine and the links work correctly
+Sahand, Jan, and all your coaches and life mentors are ready to help review your resume.
