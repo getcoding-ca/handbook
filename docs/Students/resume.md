@@ -30,9 +30,9 @@ I cannot stress enough how important the design of your resume is. It is the fir
 
 ## How To
 
-Your resume is best to be in doc format, and exported to PDF when necessary. For example, search for "modern word resume templates" and pick one you like.
+Your resume is best to be in doc/docx format, and exported to PDF when necessary. For example, search for "modern word resume templates" and pick one you like.
 
-::: tip
+:::tip
 Don't use Canva, Figma or other design tools to create your resume. It will make it not parseable by the ATS (Applicant Tracking System) that most companies use.
 :::
 
