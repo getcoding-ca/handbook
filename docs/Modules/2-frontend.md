@@ -5,7 +5,7 @@
 
 Recommended stack:
 
-- React using Vite
+- React using Vite or Next.js
 - TypeScript? Optional based on the student
 - Definitely a UI library like Material-UI, TailwindCSS, or AntDesign
 - **NO REDUX** (explained below)
@@ -20,9 +20,14 @@ Recommended stack:
 At the end of the module, the student:
 
 ✅ Understands the 3-tier architecture (client/server/db); responsibilities and limitations of each tier
+
 ✅ Can create fairly complex front-ends using React.js without help
+
 ✅ Is hireable as a junior front-end developer
-✅ Has the project deployed and live (Github Pages)
+
+✅ Has the project deployed and live (Github Pages, Vercel, etc.)
+
+✅ Can effectively use AI coding agents (Cursor/Copilot) to accelerate React development, while maintaining good habits when working with AI agents, including code review and architectural control
 
 ## Topics
 
@@ -51,10 +56,32 @@ Below are the topics that we expect students to know by the end of this module:
 - Stateless components
 - react-router
 
+## AI Agent-Based Development
+
+A key focus of this module is learning to effectively use AI coding agents like [Cursor Agent Mode](https://docs.cursor.com/agent) or GitHub Copilot Agent Mode (in preview). This is becoming an essential skill that employers expect. Throughout the module, students will:
+
+### Tips
+
+For coaches:
+
+- Cursor has a good free tier
+- Start this towards mid/end of the module
+- Expect students to code using angets for a few sessions
+
+For students:
+
+- Always review and understand generated code
+- Start with clear requirements and component design before engaging the AI
+- Break down problems and solve them step by step vs. just asking for the whole thing. Example:
+  - Start with a simple component
+  - Add button 1
+  - Add button 2
+  - Add styling
+
 ## Avoid:
 
-- Performance optimization
-- Redux: We have tried redux with 2 students and they both suffered. Both coaches regretted the decision.
+- React Performance Optimization
+- Redux: We have tried redux with multiple students and they have suffered. The coaches regretted the decision too.
 
 ## Projects:
 
