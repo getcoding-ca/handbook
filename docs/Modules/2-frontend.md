@@ -58,7 +58,7 @@ Below are the topics that we expect students to know by the end of this module:
 
 ## AI Agent-Based Development
 
-A key focus of this module is learning to effectively use AI coding agents like [Cursor Agent Mode](https://docs.cursor.com/agent) or GitHub Copilot Agent Mode (in preview). This is becoming an essential skill that employers expect. Throughout the module, students will:
+A key focus of this module is learning to effectively use AI coding agents like [Cursor Agent Mode](https://docs.cursor.com/agent) or GitHub Copilot Agent Mode (in preview); where you tell the agent what to do, and it writes the code or runs terminal commands. This is becoming an essential skill that employers expect.
 
 ### Tips
 
@@ -66,7 +66,7 @@ For coaches:
 
 - Cursor has a good free tier
 - Start this towards mid/end of the module
-- Expect students to code using angets for a few sessions
+- Expect students to complete tasks using angets for a few weeks until they get the hang of it
 
 For students:
 
